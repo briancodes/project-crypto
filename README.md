@@ -1,3 +1,5 @@
+Stephan's accompanying [medium article](https://medium.freecodecamp.org/how-to-create-themes-for-your-angular-7-apps-using-css-variables-69251690e9c5)
+
 # ProjectCrypto
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
